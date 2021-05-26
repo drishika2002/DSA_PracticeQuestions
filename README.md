@@ -1,4 +1,4 @@
 # DSA_PracticeQuestions
-For DSA Buddy Program by Girl Code It
+"DSA Buddy" Program by Girl Code It
 
 * Recursion problems
