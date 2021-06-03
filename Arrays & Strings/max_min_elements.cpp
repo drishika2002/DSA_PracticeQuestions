@@ -71,7 +71,7 @@ int main()
 	
 	  Pair minmax = getMinMax(arr, n);
 	
-	  cout << "nMinimum element is "<< minmax.min << endl;
-	  cout << "nMaximum element is "<< minmax.max;
+	  cout << "Minimum element is "<< minmax.min << endl;
+	  cout << "Maximum element is "<< minmax.max;
 	  return 0;
 }
