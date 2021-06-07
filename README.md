@@ -4,3 +4,4 @@
 * Recursion problems
 * Arrays & Strings
 * Sorting Techniques
+* Searching Techniques
