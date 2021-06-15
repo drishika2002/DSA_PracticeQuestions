@@ -5,3 +5,4 @@
 * Arrays & Strings
 * Sorting Techniques
 * Searching Techniques
+* Hash Maps / Hash Tables
