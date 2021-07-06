@@ -1,11 +1,15 @@
 # Sorting Techniques
 
-* Bubble Sort
-* Selection Sort
-* Insertion Sort
-* DNF Sort
-* Merge Sort
-* Quick Sort
+### COMPARISON BASED
+
+* Bubble Sort (Iterative)
+* Selection Sort (Iterative)
+* Insertion Sort (Iterative)
+* Merge Sort (Recursive)
+* Quick Sort (Recursive)
+
+### NON-COMPARISON BASED
+
 * Counting Sort
 * Bucket Sort
 * Radix Sort 
