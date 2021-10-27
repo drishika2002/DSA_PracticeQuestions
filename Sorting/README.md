@@ -7,6 +7,9 @@
 * Insertion Sort (Iterative)
 * Merge Sort (Recursive)
 * Quick Sort (Recursive)
+* Tree Sort
+* Shell Sort
+* Heap Sort
 
 ### NON-COMPARISON BASED
 
